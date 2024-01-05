@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "9a0780749afe3857",
+    "type": "split",
+    "children": [
+      {
+        "id": "a691e8b0590f9b14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d255cdd69daa9bf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-MOC/阅读清单.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "78880461c2e35168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Note/02-Book Note/Probability Statistics.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "27fc0dabc200308f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "169762c0897285b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a927cf4be47876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3090910a3bbb4bfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4cc5673d41093ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af328bc8c7dd1264",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "adab2df723ab3d31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6e7011190a6a4416",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c47daab7a7f6b09",
+        "type": "tabs",
+        "dimension": 40.609137055837564,
+        "children": [
+          {
+            "id": "ec1d354533e6cbd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d92b31ac7bc3511",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4bbb6d3769d62dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3250ba843ee91534",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4f101d806a54a17c",
+        "type": "tabs",
+        "dimension": 59.390862944162436,
+        "children": [
+          {
+            "id": "450ad81cf27a4dff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04-Note/02-Book Note/Probability Statistics.md"
+              }
+            }
+          },
+          {
+            "id": "227681cc38450669",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04-Note/02-Book Note/Probability Statistics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60ed30d1cc6d4c8d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-gallery:Gallery": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "78880461c2e35168",
+  "lastOpenFiles": [
+    "08-Assets/Pasted image 20240103145456.png",
+    "08-Assets/Pasted image 20240103142950.png",
+    "08-Assets/Pasted image 20240103141504.png",
+    "08-Assets/Pasted image 20240103140655.png",
+    "04-Note/02-Book Note/Probability Statistics.md",
+    "08-Assets/Pasted image 20240103140132.png",
+    "00-MOC/阅读清单.md",
+    "02-Reading/mdnotes/@Doose2005.md",
+    "02-Reading/mdnotes/@wangSegregationIntegrationBalance2021.md",
+    "08-Assets/Pasted image 20231230163717.png",
+    "08-Assets/Pasted image 20231230163254.png",
+    "08-Assets/Pasted image 20231230163534.png",
+    "02-Reading/mdnotes/@hajimolahoseiniTrainingAccelerationLowRank2023.md",
+    "03-Projects/99-黑曜石玩家指南/1-obsidian入门/zotero-obsidian联动配置.md",
+    "03-Projects/99-黑曜石玩家指南/99-黑曜石玩家指南.md",
+    "02-Reading/1-summary/Computational Neuroscience/Nonlinear dynamical analysis of EEG and MEG Review of an emerging field.md",
+    "02-Reading/mdnotes/Resting-state connectivity biomarkers define neurophysiological subtypes of depression.md",
+    "04-Note/02-Book Note/Linear Algebra.md",
+    "04-Note/02-Book Note/杀死一只知更鸟.md",
+    "01-Diary/周小结/2022-05-05_周小结.md",
+    "01-Diary/周小结/2022-04-02_周小结.md",
+    "02-Reading/mdnotes/@nicolaSupervisedLearningSpiking2017a.md",
+    "08-Assets/Pasted image 20231228023514.png",
+    "08-Assets/Pasted image 20231228022804.png",
+    "08-Assets/Pasted image 20231228022631.png",
+    "01-Diary/本周事务/未命名.md",
+    "01-Diary/本周事务/未命名 1.md",
+    "01-Diary/本周事务/小样本学习.md",
+    "01-Diary/本周事务/金融.md",
+    "01-Diary/本周事务/环境变量X.md",
+    "02-Reading/2-topics/Continual Learning/mullerContinualLearningMultiLayer2019.md",
+    "02-Reading/1-summary/Computational Neuroscience/Computational Neuroscience Mathematical and Statistical Perspectives.md",
+    "00-MOC/任务看板.md",
+    "01-Diary/本周事务/Draft for Meeting.md",
+    "08-Assets/pdfs/NeuroImage2022Jiang et alTime-varying dynamic network model for dynamic resting state functionalNeuroImageNeuroImage254119131CompNeuro_Literature/MEGJiangF et alFJ et al期刊文章",
+    "08-Assets/pdfs/NeuroImage2022Jiang et alTime-varying dynamic network model for dynamic resting state functionalNeuroImageNeuroImage254119131CompNeuro_Literature",
+    "01-Diary/日志存档/2023-12-07.md",
+    "01-Diary/日志存档/2023-12-05.md",
+    "08-Assets/pdfs/NeuroImage2019Tewarie et alTracking dynamic brain networks using high temporal resolution MEG measures ofNeuroImageNeuroImage20038-50CompNeuro_Literature/MEGTewarieP et alPT et al期刊文章",
+    "08-Assets/pdfs/NeuroImage2019Tewarie et alTracking dynamic brain networks using high temporal resolution MEG measures ofNeuroImageNeuroImage20038-50CompNeuro_Literature",
+    "08-Assets/pdfs/Frontiers in Neurology2022Cao et alDynamical Network Models From EEG and MEG for Epilepsy Surgery—A QuantitativeFrontiers in Neurology13CompNeuro_Literature/MEGCaoM et alMC et al期刊文章",
+    "08-Assets/pdfs/Frontiers in Neurology2022Cao et alDynamical Network Models From EEG and MEG for Epilepsy Surgery—A QuantitativeFrontiers in Neurology13CompNeuro_Literature",
+    "08-Assets/pdfs/NeuroImage2014Huang et alMEG Source Imaging Method using Fast L1 Minimum-norm and its Applications toNeuroImageNeuroimage84585-604CompNeuro_Literature/MEGHuangM et alMH et al期刊文章",
+    "08-Assets/pdfs/NeuroImage2014Huang et alMEG Source Imaging Method using Fast L1 Minimum-norm and its Applications toNeuroImageNeuroimage84585-604CompNeuro_Literature",
+    "08-Assets/pdfs/PLoS Comput Biol2008Deco et alThe dynamic brainPLoS Comput Biol48e1000092CompNeuro_Literature/UnreadDecoG et alGD et al期刊文章/2008_-The dynamic brain.pdf",
+    "08-Assets/pdfs/PLoS Comput Biol2008Deco et alThe dynamic brainPLoS Comput Biol48e1000092CompNeuro_Literature/UnreadDecoG et alGD et al期刊文章",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "strategy": "japanese",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 150,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^【[\\$#@^&*(!~`",
+  "showMatchStrategy": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "EEG": {
+      "EEG": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1702542108588
+        }
+      }
+    },
+    "成立": {
+      "成立": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1701850218251
+        }
+      }
+    },
+    "期望": {
+      "期望": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1703911526174
+        }
+      }
+    },
+    "Distribution": {
+      "Distribution": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1703925114779
+        }
+      }
+    },
+    "选择": {
+      "选择": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1701933392579
+        }
+      }
+    },
+    "MEG": {
+      "MEG": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1702124594488
+        }
+      }
+    },
+    "perpendicular": {
+      "perpendicular": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1702265746626
+        }
+      }
+    },
+    "Localization": {
+      "Localization": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702021401715
+        }
+      }
+    },
+    "scalp": {
+      "scalp": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702022736715
+        }
+      }
+    },
+    "inhibition": {
+      "inhibition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702124712293
+        }
+      }
+    },
+    "Connectivity": {
+      "Connectivity": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1702125262088
+        }
+      }
+    },
+    "Models": {
+      "Models": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1702127803933
+        }
+      }
+    },
+    "Disorders": {
+      "Disorders": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702126026807
+        }
+      }
+    },
+    "few": {
+      "few": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702130002966
+        }
+      }
+    },
+    "undistorted": {
+      "undistorted": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702195997936
+        }
+      }
+    },
+    "algorithm": {
+      "algorithm": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702204642589
+        }
+      }
+    },
+    "macroscopic": {
+      "macroscopic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702210854680
+        }
+      }
+    },
+    "frequency": {
+      "frequency": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702211512591
+        }
+      }
+    },
+    "Although": {
+      "Although": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1702214752246
+        }
+      }
+    },
+    "PDF": {
+      "PDF": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1703924943763
+        }
+      }
+    },
+    "Probability": {
+      "Probability": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1703699668598
+        }
+      }
+    },
+    "Continuous": {
+      "Continuous": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1703699677336
+        }
+      }
+    },
+    "分布": {
+      "分布": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1704005657920
+        }
+      }
+    },
+    "independent": {
+      "independent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1703860125175
+        }
+      }
+    },
+    "xy": {
+      "xy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1703908405834
+        }
+      }
+    },
+    "Processes": {
+      "Processes": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1703911735893
+        }
+      }
+    },
+    "PMF": {
+      "PMF": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1703925128342
+        }
+      }
+    },
+    "state": {
+      "state": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1704004234068
+        }
+      }
+    },
+    "Periodic": {
+      "Periodic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704004182703
+        }
+      }
+    },
+    "States": {
+      "States": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704004216026
+        }
+      }
+    },
+    "states": {
+      "states": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704005055188
+        }
+      }
+    },
+    "可能": {
+      "可能": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704005331259
+        }
+      }
+    },
+    "问题": {
+      "问题": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704010485998
+        }
+      }
+    },
+    "概率": {
+      "概率": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704010518005
+        }
+      }
+    },
+    "关系": {
+      "关系": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704261747181
+        }
+      }
+    },
+    "不等式": {
+      "不等式": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704261990511
+        }
+      }
+    },
+    "例子": {
+      "例子": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704263380742
+        }
+      }
+    },
+    "distribution": {
+      "distribution": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1704267140867
+        }
+      }
+    }
+  }
+}
